@@ -6,3 +6,7 @@ Guía de pasos para configurar y trabajar con Git
 Interesante y complicado
 
 Y lo subimos a la nube
+
+;)
+
+En una rama nueva
